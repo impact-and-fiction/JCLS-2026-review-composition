@@ -1,0 +1,9 @@
+[packages]
+
+numpy = "*"
+pandas = "*"
+impfic-core = "*"
+matplotlib = "*"
+seaborn = "*"
+dataframe_image = "*"
+
