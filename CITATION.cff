@@ -1,4 +1,4 @@
-cff-version: 1.1.0
+cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: Koolen
@@ -16,6 +16,6 @@ authors:
 - family-names: Tereshko
   given-names: Ekaterina (Katja)
   orcid: https://orcid.org/0000-0003-1916-1851
-title:impact-and-fiction/JCLS-2026-review-composition: v1.0.0
-version: v1.0.0
+title: The Anatomy of the Online Book Review - Code and Data
+version: v1.0.2
 date-released: 2026-04-15
