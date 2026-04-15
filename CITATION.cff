@@ -1,0 +1,21 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Koolen
+  given-names: Marijn
+  orcid: https://orcid.org/0000-0002-0301-2029
+- family-names: van Zundert
+  given-names: Joris J.
+  orcid: https://orcid.org/0000-0003-3862-7602
+- family-names: Boot
+  given-names: Peter
+  orcid: https://orcid.org/0000-0002-7399-3539
+- family-names: Lilli
+  given-names: Silvia
+  orcid: https://orcid.org/0009-0004-3703-8149
+- family-names: Tereshko
+  given-names: Ekaterina (Katja)
+  orcid: https://orcid.org/0000-0003-1916-1851
+title:impact-and-fiction/JCLS-2026-review-composition: v1.0.0
+version: v1.0.0
+date-released: 2026-04-15
