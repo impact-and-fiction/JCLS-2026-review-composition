@@ -1,4 +1,4 @@
-# JCLS-2026-review-composition
+# JCLS 2026 paper "The Anatomy of the Online Book Review"
 
 Code and data for the 2026 JCLS submission on review composition.
 
