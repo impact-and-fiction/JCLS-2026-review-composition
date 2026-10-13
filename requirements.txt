@@ -1,0 +1,9 @@
+dataframe_image==0.2.7
+-e git+ssh://git@github.com/impact-and-fiction/impfic-core.git@d63f413a017a87c69c65844f4ee1a968904bcacd#egg=impfic_core
+matplotlib==3.10.8
+matplotlib-inline==0.1.6
+numpy==2.4.6
+pandas==2.3.1
+pandas-stubs==2.3.3.251219
+seaborn==0.13.2
+
